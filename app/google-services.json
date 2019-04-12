@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "964500573693",
+    "firebase_url": "https://ifood-c436b.firebaseio.com",
+    "project_id": "ifood-c436b",
+    "storage_bucket": "ifood-c436b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964500573693:android:ea1e20f3b4dc8029",
+        "android_client_info": {
+          "package_name": "br.com.mdr.ifood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjAkP6Kt3kf-qSmmv2ZXXB6kfArUDIJwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964500573693-vn1g3v8dv0776reioogj9piq1t0cikjf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
